@@ -1,4 +1,4 @@
 const AIpicker = () => {
-  return <div></div>;
+  return <div>aipicker</div>;
 };
 export default AIpicker;
